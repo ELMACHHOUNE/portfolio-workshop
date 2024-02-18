@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+
+#About{
+    background-color: bisque;
+    text-align: center;
+}
+
+
+#Experiences {
+    align-items: start;
+    color: aliceblue;
+    background-image: url("src/sunset-1373171_1280.jpg");
+}
